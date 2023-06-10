@@ -39,5 +39,5 @@ ortant to predict the `1`'s, or predict the `0`'s? )
 **Thee performance depends on the problem you are trying to solve. we are not concerned about overclassifying the good loans.  we are more concerned about increasing the 1's classification.
 
 If you do not recommend any of the models, please justify your reasoning.
-**I only recommand the RandomOverSampler model to be used for this problem becouse it
+* I only recommend the RandomOverSampler model to be used for this problem becouse it
 detects more of the potential people who are likely to default on loans based on their credit risk.
